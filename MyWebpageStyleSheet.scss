@@ -1,0 +1,50 @@
+
+
+/* define variables for the primary colors */
+$primary_1: #a2b9bc;
+$primary_2: #f8f5fa;
+$primary_3: #3185eb;
+
+/* use the variables */
+.header {
+  background-color: $primary_1;
+}
+
+.Footer {
+  background-color: $primary_2;
+}
+
+.seperator {
+  background-color: $primary_1;
+  
+}
+
+h1
+{
+color: $primary_2;
+font-family :comic sans ms;
+text-align:center;
+}
+
+h3
+{
+  background-color: $primary_1;
+  text-align:Center;
+}
+
+h2,h3,h4,p
+{
+  color :$primary_3;
+  font-family:verdana;
+  height: 100%;
+  width: 50%;
+  font-size:20px;
+  padding :30 px;
+  border-style:groove;
+  border-color: blue green;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+
+}

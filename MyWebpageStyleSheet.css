@@ -1,0 +1,35 @@
+/* define variables for the primary colors */
+/* use the variables */
+.header {
+  background-color: #a2b9bc; }
+
+.Footer {
+  background-color: #f8f5fa; }
+
+.seperator {
+  background-color: #a2b9bc; }
+
+h1 {
+  color: #f8f5fa;
+  font-family: comic sans ms;
+  text-align: center; }
+
+h3 {
+  background-color: #a2b9bc;
+  text-align: Center; }
+
+h2, h3, h4, p {
+  color: #3185eb;
+  font-family: verdana;
+  height: 100%;
+  width: 50%;
+  font-size: 20px;
+  padding: 30 px;
+  border-style: groove;
+  border-color: blue green;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px; }
+
+/*# sourceMappingURL=MyWebpageStyleSheet.css.map */
